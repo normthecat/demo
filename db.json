@@ -1,14 +1,51 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "AD" : "66",
+  "DOB" : "19220101",
+  "ED" : "041",
+  "First Name" : "JOSEPHINE",
+  "Last Name" : "PACIAFFI",
+  "Party" : "R",
+  "Poll Site" : "10516",
+  "VSN" : "00150971",
+  "ZIP" : "10012"
+}, {
+  "AD" : "65",
+  "DOB" : "19350317",
+  "ED" : "030",
+  "First Name" : "SUSAN",
+  "Last Name" : "LEE",
+  "Party" : "R",
+  "Poll Site" : "10612",
+  "VSN" : "00142214",
+  "ZIP" : "10002"
+}, {
+  "AD" : "74",
+  "DOB" : "18500101",
+  "ED" : "057",
+  "First Name" : "RITA",
+  "Last Name" : "SACKS",
+  "Party" : "D",
+  "Poll Site" : "10932",
+  "VSN" : "00090860",
+  "ZIP" : "10010"
+}, {
+  "AD" : "75",
+  "DOB" : "19300314",
+  "ED" : "096",
+  "First Name" : "WALLACE",
+  "Last Name" : "WHITE",
+  "Party" : "D",
+  "Poll Site" : "M0052",
+  "VSN" : "00208401",
+  "ZIP" : "10023"
+}, {
+  "AD" : "66",
+  "DOB" : "19300608",
+  "ED" : "051",
+  "First Name" : "LEAH",
+  "Last Name" : "GOODMAN",
+  "Party" : "D",
+  "Poll Site" : "M0265",
+  "VSN" : "00085055",
+  "ZIP" : "10003"
 }
