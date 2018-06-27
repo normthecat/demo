@@ -1,123 +1,124 @@
 {
-	"voters": [{
-		"AD": "66",
-		"DOB": "19220101",
-		"ED": "041",
-		"First Name": "JOSEPHINE",
-		"Last Name": "PACIAFFI",
-		"Party": "R",
-		"Poll Site": "10516",
-		"VSN": "00150971",
-		"ZIP": "10012"
-	}, {
-		"AD": "65",
-		"DOB": "19350317",
-		"ED": "030",
-		"First Name": "SUSAN",
-		"Last Name": "LEE",
-		"Party": "R",
-		"Poll Site": "10612",
-		"VSN": "00142214",
-		"ZIP": "10002"
-	}, {
-		"AD": "74",
-		"DOB": "18500101",
-		"ED": "057",
-		"First Name": "RITA",
-		"Last Name": "SACKS",
-		"Party": "D",
-		"Poll Site": "10932",
-		"VSN": "00090860",
-		"ZIP": "10010"
-	}, {
-		"AD": "75",
-		"DOB": "19300314",
-		"ED": "096",
-		"First Name": "WALLACE",
-		"Last Name": "WHITE",
-		"Party": "D",
-		"Poll Site": "M0052",
-		"VSN": "00208401",
-		"ZIP": "10023"
-	}, {
-		"AD": "66",
-		"DOB": "19300608",
-		"ED": "051",
-		"First Name": "LEAH",
-		"Last Name": "GOODMAN",
-		"Party": "D",
-		"Poll Site": "M0265",
-		"VSN": "00085055",
-		"ZIP": "10003"
-	}, {
-		"AD": "74",
-		"DOB": "19430214",
-		"ED": "030",
-		"First Name": "DOROTHY",
-		"Last Name": "KALLON",
-		"Party": "R",
-		"Poll Site": "M0288",
-		"VSN": "00127576",
-		"ZIP": "10009"
-	}, {
-		"AD": "70",
-		"DOB": "19391012",
-		"ED": "047",
-		"First Name": "MARGARET",
-		"Last Name": "BOYD",
-		"Party": "D",
-		"Poll Site": "M0122",
-		"VSN": "00185796",
-		"ZIP": "10037"
-	}, {
-		"AD": "76",
-		"DOB": "19420125",
-		"ED": "017",
-		"First Name": "JEROME",
-		"Last Name": "JANOF",
-		"Party": "D",
-		"Poll Site": "10401",
-		"VSN": "00202135",
-		"ZIP": "10021"
-	}, {
-		"AD": "73",
-		"DOB": "19320930",
-		"ED": "064",
-		"First Name": "JULIUS",
-		"Last Name": "ROSS",
-		"Party": "D",
-		"Poll Site": "M0129",
-		"VSN": "001920861",
-		"ZIP": "10021"
-	}, {
-		"AD": "65",
-		"DOB": "19220616",
-		"ED": "053",
-		"First Name": "MARTIN",
-		"Last Name": "RAPPS",
-		"Party": "D",
-		"Poll Site": "10307",
-		"VSN": "00116601",
-		"ZIP": "10002"
-	}, {
-		"AD": "74",
-		"DOB": "19240314",
-		"ED": "005",
-		"First Name": "PEDRO",
-		"Last Name": "CABALLERO",
-		"Party": "D",
-		"Poll Site": "00009",
-		"VSN": "00226312",
-		"ZIP": "10002"
-	}, {
-		"AD": "65",
-		"DOB": "19240618",
-		"ED": "044",
-		"First Name": "KIM",
-		"Last Name": "CHU",
-		"Party": "R",
-		"Poll Site": "M0236",
-		"VSN": "00234990",
-		"ZIP": "10002"
-	}]
-}
+		"voters": [{
+			"AD": "66",
+			"DOB": "19220101",
+			"ED": "041",
+			"First_Name": "JOSEPHINE",
+			"Last_Name": "PACIAFFI",
+			"Party": "R",
+			"Poll_Site": "10516",
+			"VSN": "00150971",
+			"ZIP": "10012"
+		}, {
+			"AD": "65",
+			"DOB": "19350317",
+			"ED": "030",
+			"First_Name": "SUSAN",
+			"Last_Name": "LEE",
+			"Party": "R",
+			"Poll_Site": "10612",
+			"VSN": "00142214",
+			"ZIP": "10002"
+		}, {
+			"AD": "74",
+			"DOB": "18500101",
+			"ED": "057",
+			"First_Name": "RITA",
+			"Last_Name": "SACKS",
+			"Party": "D",
+			"Poll_Site": "10932",
+			"VSN": "00090860",
+			"ZIP": "10010"
+		}, {
+			"AD": "75",
+			"DOB": "19300314",
+			"ED": "096",
+			"First_Name": "WALLACE",
+			"Last_Name": "WHITE",
+			"Party": "D",
+			"Poll_Site": "M0052",
+			"VSN": "00208401",
+			"ZIP": "10023"
+		}, {
+			"AD": "66",
+			"DOB": "19300608",
+			"ED": "051",
+			"First_Name": "LEAH",
+			"Last_Name": "GOODMAN",
+			"Party": "D",
+			"Poll_Site": "M0265",
+			"VSN": "00085055",
+			"ZIP": "10003"
+		}, {
+			"AD": "74",
+			"DOB": "19430214",
+			"ED": "030",
+			"First_Name": "DOROTHY",
+			"Last_Name": "KALLON",
+			"Party": "R",
+			"Poll_Site": "M0288",
+			"VSN": "00127576",
+			"ZIP": "10009"
+		}, {
+			"AD": "70",
+			"DOB": "19391012",
+			"ED": "047",
+			"First_Name": "MARGARET",
+			"Last_Name": "BOYD",
+			"Party": "D",
+			"Poll_Site": "M0122",
+			"VSN": "00185796",
+			"ZIP": "10037"
+		}, {
+			"AD": "76",
+			"DOB": "19420125",
+			"ED": "017",
+			"First_Name": "JEROME",
+			"Last_Name": "JANOF",
+			"Party": "D",
+			"Poll_Site": "10401",
+			"VSN": "00202135",
+			"ZIP": "10021"
+		}, {
+			"AD": "73",
+			"DOB": "19320930",
+			"ED": "064",
+			"First_Name": "JULIUS",
+			"Last_Name": "ROSS",
+			"Party": "D",
+			"Poll_Site": "M0129",
+			"VSN": "001920861",
+			"ZIP": "10021"
+		}, {
+			"AD": "65",
+			"DOB": "19220616",
+			"ED": "053",
+			"First_Name": "MARTIN",
+			"Last_Name": "RAPPS",
+			"Party": "D",
+			"Poll_Site": "10307",
+			"VSN": "00116601",
+			"ZIP": "10002"
+		}, {
+			"AD": "74",
+			"DOB": "19240314",
+			"ED": "005",
+			"First_Name": "PEDRO",
+			"Last_Name": "CABALLERO",
+			"Party": "D",
+			"Poll_Site": "00009",
+			"VSN": "00226312",
+			"ZIP": "10002"
+		}, {
+			"AD": "65",
+			"DOB": "19240618",
+			"ED": "044",
+			"First_Name": "KIM",
+			"Last_Name": "CHU",
+			"Party": "R",
+			"Poll_Site": "M0236",
+			"VSN": "00234990",
+			"ZIP": "10002"
+		}]
+	}
+	
